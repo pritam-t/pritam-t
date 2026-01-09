@@ -1,73 +1,75 @@
-<!-- Header Animation -->
+<!-- Typing Header (Dark Only) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Pritam+Thopate;Software+%7C+Robotics+%7C+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Pritam+Thopate;AI+%7C+Robotics+%7C+Software+Engineer;Building+Intelligent+Systems" />
 </div>
 
 ---
 
-<!-- Social Links -->
+<!-- Minimal Social -->
 <div align="center">
   <a href="https://www.linkedin.com/in/pritam-thopate-678b49282/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/pritam-t">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://pritamportfolio-five.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-I’m a **Computer Engineering undergraduate** and **Software Development Intern** focused on  
-**Robotics, Automation, and AI-driven systems**.
+Computer Engineering undergraduate & **Software Development Intern**  
+Focused on **AI, Robotics, Automation, and Scalable Software Systems**
 
-- Currently working on **autonomous robots & AI-integrated apps**
-- Strong in **Java, Flutter, Computer Vision, Robotics**
-- Learning **DSA (Java)** and **AI Agents**
+- Autonomous robots & AI-integrated applications  
+- Strong in **Java, Flutter, Computer Vision, AI Agents**  
+- Learning **DSA (Java)** & **Agentic AI systems**
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,flutter,dart,firebase,mysql,git,android,opencv" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,flutter,dart,spring,firebase,docker,postgres,mongodb,git,linux,android,opencv" />
 </p>
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=langchain,qdrant" />
+</p>
 
-### 🚀 Selected Projects
+**AI / Agentic Systems:**  
+`AI Agents · Computer Vision · NLP Fundamentals · LangChain · Vector Databases`
 
-**Arogya+**  
-AI-powered health assistant with chatbot, medicine scanning & health profiling  
-`Flutter · Firebase · REST APIs`
-
-**ASTRA**  
-Autonomous warehouse robot using QR-based package sorting  
-`Robotics · Flutter · Automation`
-
----
-
-### 🏆 Highlights
-
-- 🥇 **Gold – FIRST Global Challenge 2022 (Switzerland)**
-- 🇮🇳 Represented India in International Robotics Competition
-- 🥇 KJSIT-INTECH 2K24 (ASTRA)
-- 🥈 Snap AR Lens Hackathon
-
----
-
-### 📊 GitHub Activity
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam-t&show_icons=true&hide_title=true&hide_border=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pritam-t&hide_border=true&theme=github-dark" height="150"/>
+  <img src="https://img.shields.io/badge/International%20Awards-6+-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathon%20Wins-4+-0A66C2?style=for-the-badge"/>
 </div>
 
+- 🥇 **Gold – FIRST Global Challenge 2022 (Switzerland)**  
+- 🇮🇳 Represented India at International Robotics Competition  
+- 🥇 KJSIT-INTECH 2K24 — ASTRA  
+- 🥈 Snap AR Lens Hackathon  
+- 🥉 Amazon Future Engineer – Careers of the Future Summit 2025  
+
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam-t&show_icons=true&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pritam-t&theme=dark&hide_border=true" />
+</div>
+---
+
+<div align="center">
+  <sub>⚙️ Building systems where AI meets the physical world</sub>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:58A6FF&height=100&section=footer"/>
